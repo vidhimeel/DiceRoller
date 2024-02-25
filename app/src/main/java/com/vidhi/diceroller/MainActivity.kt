@@ -53,6 +53,7 @@ fun DiceWithButtonAndImage(modifier: Modifier) {
 
         }) {
             Text(text = stringResource(R.string.roll))
+
         }
     }
 }
